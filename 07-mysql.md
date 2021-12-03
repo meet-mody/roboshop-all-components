@@ -16,7 +16,6 @@ As per the Application need, we are choosing MySQL 5.7 version.
 2. Install MySQL
 
 ```
-# yum remove mariadb-libs -y 
 # yum install mysql-community-server -y 
 
 ```
