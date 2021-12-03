@@ -7,9 +7,7 @@ Redis is used for in-memory data storage and allows users to access the data ove
 1. Install Redis.
 
 ```
-# yum install epel-release yum-utils -y
-# yum install http://rpms.remirepo.net/enterprise/remi-release-7.rpm -y
-# yum-config-manager --enable remi
+# curl -L https://raw.githubusercontent.com/roboshop-devops-project/redis/main/redis.repo -o /etc/yum.repos.d/redis.repo
 # yum install redis -y
 ```
 
