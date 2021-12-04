@@ -7,7 +7,7 @@ RabbitMQ is a messaging Queue which is used by some components of the applicatio
 1. Erlang is a dependency which is needed for RabbitMQ.
 
 ```
-# yum install https://github.com/rabbitmq/erlan g-rpm/releases/download/v23.2.6/erlang-23.2.6-1.el7.x86_64.rpm -y 
+# yum install https://github.com/rabbitmq/erlang-rpm/releases/download/v23.2.6/erlang-23.2.6-1.el7.x86_64.rpm -y 
 ```
 
 2. Setup YUM repositories for RabbitMQ.
