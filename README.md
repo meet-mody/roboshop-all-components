@@ -28,7 +28,5 @@ Project Diagram
 
 ![RoboShop Project EC2](diags/roboshop.jpg)
 
-## 1. Frontend Setup 
-
 
 
